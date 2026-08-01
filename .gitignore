@@ -23,3 +23,5 @@
 *.vcxproj.user
 *.log
 build/
+*.pdb
+target/
